@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi There 👋!
+I’m a dedicated DevOps Engineer with hands-on experience in automation, CI/CD, cloud infrastructure, and container orchestration. Alongside my DevOps journey, I’m also highly passionate about full stack development, and I’m actively expanding my skills in building scalable web applications.
+🔧 Technologies & Tools
+🚀 Backend Skills
+•	Languages: Python , MYSQL
+🎨 Frontend Skills
+•	Languages: HTML, CSS, JavaScript
+🛠 DevOps Skills
+•	Containerization: Docker, Kubernetes
+•	CI/CD: Jenkins, GitHub Actions, CI/CD pipelines
+•	Infrastructure as Code (IaC): Terraform, AWS CloudFormation, Ansible
+•	Cloud Platforms:
+o	AWS Services:
+	EC2 (Elastic Compute Cloud)
+	ECS (Elastic Container Service)
+	ECR (Elastic Container Registry)
+	EKS (Elastic Kubernetes Service)
+	S3 (Simple Storage Service)
+	RDS (Relational Database Service)
+	IAM (Identity and Access Management)
+	AWS Lambda
+	CodeBuild
+	CloudFormation
+•	Monitoring & Logging: Prometheus, Grafana, CloudWatch
+•	Other Tools: JFrog Artifactory, Git, Docker Hub
 
-<!--
-**ch-kirankumar/ch-kirankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
